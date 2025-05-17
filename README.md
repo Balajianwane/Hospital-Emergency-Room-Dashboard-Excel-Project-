@@ -12,7 +12,7 @@ The dashboard is designed to assist hospital administrators and healthcare manag
 ## 📁 Project Files
 
 - <a href=https://github.com/Balajianwane/Hospital-Emergency-Room-Dashboard-Excel-Project-/blob/main/Hospital%20Emergency%20Room%20Data.csv>Excel workbook</a> – The main Excel workbook containing all charts, slicers, pivot tables, and interactive components.
-- `Screenshot 2025-05-16 194516.png` – A preview screenshot of the dashboard interface.
+- <a href=https://github.com/Balajianwane/Hospital-Emergency-Room-Dashboard-Excel-Project-/blob/main/Hospital%20emergency%20room%20dashboard%20screenshot.png>preview screenshot</a> – A preview screenshot of the dashboard interface.
 
 ## 📌 Key Features
 
